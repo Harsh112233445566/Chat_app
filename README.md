@@ -1,5 +1,5 @@
 
-# MERN Chat App
+# MERN Chat app
 
 A real-time chat application built using the **MERN** stack (MongoDB, Express.js, React, Node.js), with real-time messaging powered by **Socket.IO** and Dockerized for easy deployment.
 
